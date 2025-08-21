@@ -92,11 +92,10 @@ I have a strong understanding of **Clean Architecture, Design Patterns, and SOLI
     <td width="50%" valign="top">
       <h3 align="center">🍴 GOHA Restaurant System</h3>
       <p align="center">
-        <a href="https://github.com/zizoelshimy/nodjs-ecommerece">
-          <img src="https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge&logo=github" alt="Source Code" />
-        </a>
+        <img src="https://img.shields.io/badge/Private_Project-Gray?style=for-the-badge&logo=lock&logoColor=white" alt="Private Project" />
       </p>
-      <p>Custom system with cashier & inventory management, built using Node.js, MongoDB, Electron, and Express.js.</p>
+      <p>Custom restaurant system with cashier & inventory management, built using Node.js, MongoDB, Electron, and Express.js.  
+      🔒 <i>Codebase is private due to ownership restrictions.</i></p>
     </td>
   </tr>
   <tr>
