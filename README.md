@@ -1,78 +1,157 @@
-# Hi, I'm Moataz El-shimy! 👋  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Moataz%20El-shimy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20QA%20Engineer%20%7C%20SaaS%20Specialist&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
-🚀 **Backend Developer | Node.js Enthusiast | Problem Solver**  
-I specialize in building **scalable backend systems** and crafting robust APIs that power real-world applications. With hands-on experience in **Node.js, Express, MongoDB, PostgreSQL, and cloud services**, I’m passionate about delivering clean, maintainable, and efficient solutions.  
+<p align="center">
+  <a href="https://github.com/zizoelshimy">
+    <img src="https://img.shields.io/badge/GitHub-zizoelshimy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/moataz-el-shimy-07b381281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Moataz_Elshimy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zizoelshimy8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/moatazelshimy966">
+    <img src="https://img.shields.io/badge/Codeforces-MoatazElshimy-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zizoelshimy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&rank_icon=github" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zizoelshimy&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Backend+Developer+%26+QA+Engineer;Building+Scalable+SaaS+Applications;Clean+Architecture+%7C+SOLID+Principles;Dockerized+Deployments;Team+Ethereal+Engineer" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm **Moataz El-shimy**, a **Backend Developer & QA Engineer** with 1–2 years of hands-on experience developing **SaaS applications** using **Express.js** and **NestJS**.  
+
+Currently, I work with **Team Ethereal**, where I help build **scalable and maintainable backend systems** that power real-world business solutions.  
+
+💡 My expertise lies in:  
+- ⚙️ Backend Development (Node.js, Express.js, NestJS)  
+- 📊 Database Design & Optimization (PostgreSQL, MongoDB, Firebase)  
+- ✅ Quality Assurance (Unit Testing, Debugging, Code Review)  
+- 🛠 DevOps (Docker, CI/CD, Vercel, AWS Basics)  
+
+I have a strong understanding of **Clean Architecture, Design Patterns, and SOLID principles**, guiding me to write clean, modular, and testable code. I’m also experienced in **containerization with Docker** for efficient deployments.  
+
+<br clear="right"/>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">⚡ Backend Development</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,graphql,redis" style="max-width: 100%" />
+        </div>
+        <br />
+        <p align="center">Specialized in RESTful APIs, GraphQL, Microservices, Authentication (JWT/OAuth), and Event-Driven Systems.</p>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">🗄️ Databases</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,mysql" style="max-width: 100%" />
+        </div>
+        <br />
+        <p align="center">Experienced in schema design, query optimization, and managing SQL & NoSQL databases.</p>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">🛠️ DevOps & Tools</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman,vercel" style="max-width: 100%" />
+        </div>
+        <br />
+        <p align="center">Dockerized deployments, CI/CD pipelines, cloud hosting, and testing automation.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 Computer & Data Science student at **Alexandria University** (CGPA: 3.76).  
-- 🛠 Currently working with **Team Ethereal** on real-world SaaS and backend systems.  
-- 💡 Interested in **Microservices, Cloud Computing, and Database Optimization**.  
-- 🌍 Fluent in Arabic, proficient in English, beginner in Italian.  
+## 🏆 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Freelancer Platform</h3>
+      <p align="center">
+        <a href="https://github.com/zizoelshimy/freelancerProject">
+          <img src="https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge&logo=github" alt="Source Code" />
+        </a>
+      </p>
+      <p>A MEAN Stack platform for freelancers to create profiles, showcase services, and connect with clients.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍴 GOHA Restaurant System</h3>
+      <p align="center">
+        <a href="https://github.com/zizoelshimy/nodjs-ecommerece">
+          <img src="https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge&logo=github" alt="Source Code" />
+        </a>
+      </p>
+      <p>Custom system with cashier & inventory management, built using Node.js, MongoDB, Electron, and Express.js.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-commerce Backend</h3>
+      <p align="center">
+        <a href="https://github.com/zizoelshimy/nodjs-ecommerece">
+          <img src="https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge&logo=github" alt="Source Code" />
+        </a>
+      </p>
+      <p>Robust backend with RESTful APIs, middleware for security, and scalable architecture for online stores.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Flask Market Website</h3>
+      <p align="center">
+        <a href="https://github.com/zizoelshimy/flask-market-website">
+          <img src="https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge&logo=github" alt="Source Code" />
+        </a>
+      </p>
+      <p>A Flask-based marketplace with authentication, dynamic product management, and responsive frontend.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack  
+## 📊 GitHub Stats
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,typescript,flask,mongo,postgresql,firebase,redis,docker,aws,git,github,cpp,linux)](https://skillicons.dev)
-
-<details>
-<summary>Backend Development</summary>
-
-- RESTful APIs & GraphQL  
-- Authentication (JWT, OAuth)  
-- Microservices Architecture  
-- Database Optimization  
-- CI/CD with Vercel  
-</details>
-
-<details>
-<summary>DevOps & Tools</summary>
-
-- Docker & Kubernetes (Basics)  
-- Cloud Services (AWS, Firebase)  
-- Networking (IP, DNS, Firewalls)  
-</details>
-
-<details>
-<summary>Frontend (Basics)</summary>
-
-- HTML, CSS, JavaScript  
-- Angular & Bootstrap  
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zizoelshimy&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zizoelshimy&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
 ---
 
-## 🚀 Featured Projects  
+## 📫 Let's Connect
 
-🔹 **[Freelancer Website](https://github.com/zizoelshimy/freelancerProject)** – MEAN Stack platform for freelancers to showcase services and connect with clients.  
-🔹 **[GOHA Restaurant System](https://github.com/zizoelshimy/nodjs-ecommerece)** – Custom restaurant system with cashier & inventory management (Node.js, MongoDB, Electron).  
-🔹 **[E-commerce Backend](https://github.com/zizoelshimy/nodjs-ecommerece)** – Scalable backend with REST APIs, middleware, and advanced validation.  
-🔹 **[Flask Market Website](https://github.com/zizoelshimy/flask-market-website)** – Flask-based marketplace with authentication, buying & selling features.  
+<div align="center">
+  <a href="https://www.linkedin.com/in/moataz-el-shimy-07b381281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Moataz_Elshimy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/zizoelshimy">
+    <img src="https://img.shields.io/badge/GitHub-zizoelshimy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:zizoelshimy8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/moatazelshimy966">
+    <img src="https://img.shields.io/badge/Codeforces-MoatazElshimy-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-## 🏆 Achievements  
-- Built and deployed **4+ backend systems** used in real-world applications.  
-- Developed **robust authentication systems** (JWT, OAuth).  
-- Experience in **Linux Administration** and DevOps practices.  
-- Strong **problem-solving skills** (Codeforces enthusiast 💻).  
-
----
-
-## 🌐 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/moataz-el-shimy-07b381281/)  
-- 💻 [GitHub](https://github.com/zizoelshimy)  
-- ✉️ [Email](mailto:zizoelshimy8@gmail.com)  
-- ⚡ [Codeforces](https://codeforces.com/profile/moatazelshimy966)  
-
----
-
-✨ Thanks for visiting my profile! Let’s collaborate and innovate together in the world of backend and cloud systems.  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
